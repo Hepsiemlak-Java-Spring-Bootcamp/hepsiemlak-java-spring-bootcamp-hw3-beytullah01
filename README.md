@@ -1,22 +1,13 @@
 
-# Hepsiemlak-Java-Spring-Bootcamp-HW3
+#Activemq ile yapılan islemler
+![Screenshot (261)](https://user-images.githubusercontent.com/50759451/154864591-c7844d27-65b3-45b3-85fe-0e2fb3600684.png)
+
+![Screenshot (262)](https://user-images.githubusercontent.com/50759451/154864594-21a583a0-8b6f-4c29-8bfd-7958e7e8c0ed.png)
+![Screenshot (263)](https://user-images.githubusercontent.com/50759451/154864597-a1116b60-723d-4ff4-8b91-9d4482f4fef8.png)
 
 
-• EmlakBurada-Banner uygulamasına Spring feign client kullanarak da client oluşturun.
-
-• EmlakBurada uygulaması ActiveMQ da kullanarak veri gönderimini sağlayın.
-
-• EmlakBurada uygulamasında eksik kalan KullanıcınıService ve MessageService katmanlarının 
-Controller katmanını yazın. Aşağıdaki işlemleri yapıyor olması gerek.
-
-• EmlakBurada uygulamasında IlanController içerisinde id’si verilen kullanıcının favori ilanlarını 
-getiren yeni bir method yazın.
-
-• create
-• findAll
-• findOne
-
-Bu dosya Patika.dev - Hepsiemlak Java & Spring Boot eğitimi 
-dışında kullanılmamalıdır. 
-
-Cem DIRMAN
+#Banner olusturma feign client service haberleşmesi
+![Screenshot (264)](https://user-images.githubusercontent.com/50759451/154864657-46805474-51f2-4b69-b535-a240adb76320.png)
+![Screenshot (265)](https://user-images.githubusercontent.com/50759451/154864662-ee6f0fb1-3220-42fa-89db-fa3c6c363ce0.png)
+![Screenshot (266)](https://user-images.githubusercontent.com/50759451/154864663-498e80b8-c09d-4797-8559-d1b0073031a6.png)
+![Screenshot (267)](https://user-images.githubusercontent.com/50759451/154864666-9a977500-a4f2-4bb9-957f-dc4b10e0b0c1.png)
