@@ -9,5 +9,5 @@
 #Banner olusturma feign client service haberleşmesi
 ![Screenshot (264)](https://user-images.githubusercontent.com/50759451/154864657-46805474-51f2-4b69-b535-a240adb76320.png)
 ![Screenshot (265)](https://user-images.githubusercontent.com/50759451/154864662-ee6f0fb1-3220-42fa-89db-fa3c6c363ce0.png)
-![Screenshot (266)](https://user-images.githubusercontent.com/50759451/154864663-498e80b8-c09d-4797-8559-d1b0073031a6.png)
+
 ![Screenshot (267)](https://user-images.githubusercontent.com/50759451/154864666-9a977500-a4f2-4bb9-957f-dc4b10e0b0c1.png)
